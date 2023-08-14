@@ -52,3 +52,4 @@
 ![маректинг 1](https://github.com/belladzhu/product-analysis/assets/101130608/1b89004b-f95c-46d4-ab32-62d6bb7a32f4)
 ![маркетинг 2](https://github.com/belladzhu/product-analysis/assets/101130608/15a6ca97-5a47-4d11-a7fb-2b53189fe10e)
 ![маркетинг 3](https://github.com/belladzhu/product-analysis/assets/101130608/bf37214e-a5cd-47a6-81a0-68709d03fe31)
+![метрики 4](https://github.com/belladzhu/product-analysis/assets/101130608/73163cad-b1a7-4539-8507-d2698bd10eab)
