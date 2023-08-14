@@ -18,9 +18,9 @@
 
 
 ## [Когортный анализ](https://github.com/belladzhu/product-analysis/blob/master/rfm-and-cohort-analysis/cohort-analys.ipynb)
-В файле cohort-analys.ipynb код предварительной обработки данных для последующего когортного анализа в Tableau.
-В Tableau был проведен расчет Retention и ARPU.
-Результат анализа в Tableau:\
+В файле cohort-analys.ipynb код предварительной обработки данных для последующего когортного анализа в Tableau. \
+В Tableau был проведен расчет Retention и ARPU. \
+Результат анализа в Tableau:
 
 ![когорты рет](https://github.com/belladzhu/product-analysis/assets/101130608/281c7d46-c756-4121-bdc9-9862eec76e34)
 
